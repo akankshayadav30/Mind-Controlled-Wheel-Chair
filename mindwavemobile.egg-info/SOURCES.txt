@@ -1,0 +1,11 @@
+setup.py
+mindwavemobile/MindwaveDataPointReader.py
+mindwavemobile/MindwaveDataPoints.py
+mindwavemobile/MindwaveMobileRawReader.py
+mindwavemobile/MindwavePacketPayloadParser.py
+mindwavemobile.egg-info/PKG-INFO
+mindwavemobile.egg-info/SOURCES.txt
+mindwavemobile.egg-info/dependency_links.txt
+mindwavemobile.egg-info/not-zip-safe
+mindwavemobile.egg-info/requires.txt
+mindwavemobile.egg-info/top_level.txt
